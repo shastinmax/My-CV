@@ -1,9 +1,9 @@
 .divider{
-    margin-top: 25px;
+    margin: 25px auto 0;
     border: 2px solid #ffa501;
     width: 60px;
     background-color: $main-color;
     &_about{
-        margin-top: 4px;
+        margin: 4px 0 0;
     }
 }
