@@ -15,10 +15,12 @@
 
         img {
             width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
     }
 
-    &__desc {
+    &__descr {
         padding-top: 6px;
     }
 
